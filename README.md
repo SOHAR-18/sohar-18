@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=38&pause=950&color=26F7FD&background=2C013D00&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+%3C+SOHAR+%3E!;Student+%F0%9F%8E%93+%7C+Full+Stack+%F0%9F%92%BB+%7C+Dreamer+%F0%9F%8C%9F;Let's+Create+Magic+with+Code+%F0%9F%A4%96" alt="Typing SVG Animated Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=38&pause=950&color=26F7FD&background=2C013D00&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+%3C+SOHAR+/+%3E!;Student+%F0%9F%8E%93+%7C+Full+Stack+%F0%9F%92%BB+%7C+Dreamer+%F0%9F%8C%9F;Let's+Create+Magic+with+Code+%F0%9F%A4%96" alt="Typing SVG Animated Banner" />
 </p>
 
 <!-- Animated Gradient Glow Banner -->
@@ -38,11 +38,11 @@
 ## 🌈 About Me
 
 ```yaml
-name: <Your Name>
-pronouns: he/him | she/her | they/them
-role: Student & Coder
-specialty: Full Stack / Data Science / Mobile / AI / etc.
-interests: Coding 🧑‍💻 | Learning 📚 | Gaming 🎮 | Music 🎵
+Name: Sohar Baba
+Pronouns: he/him 
+Role: Student & Coder
+Specialty: Full Stack / Data Science/ AI / etc.
+Interests: Coding 🧑‍💻 | Learning 📚 | Gaming 🎮 | Music 🎵
 ```
 
 - 🚀 Currently working on: **[Your Project/Interest]**
@@ -112,7 +112,7 @@ interests: Coding 🧑‍💻 | Learning 📚 | Gaming 🎮 | Music 🎵
       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=1600"/>
     </div>
     <div style="margin-top:10px;color:#888;font-size:1.1em;">
-      <strong>Made with ❤️ by &lt;Your Name&gt;</strong>
+      <strong>Made with ❤️ by &lt;SOHAR BABA /&gt;</strong>
     </div>
   </div>
 </div>
