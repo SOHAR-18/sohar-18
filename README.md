@@ -91,7 +91,7 @@ Interests: Coding 🧑‍💻 | Learning 📚 | Gaming 🎮 | Music 🎵
       <a href="mailto:soharbaba182005@gmail.com" style="margin:0 14px;display:inline-block;">
         <img src="https://img.shields.io/badge/email-%2300B4D8.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ffffff&color=00B4D8&label=Email&logoWidth=20&longCache=true" alt="email" style="border-radius:16px;box-shadow:0 2px 10px #00B4D899;"/>
       </a>
-      <a href="https://linkedin.com/in/sohar baba/" style="margin:0 14px;display:inline-block;">
+      <a href="https://linkedin.com/in/soharbaba/" style="margin:0 14px;display:inline-block;">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ffffff&color=adb5bd&logoWidth=20" alt="linkedin" style="border-radius:16px;box-shadow:0 2px 10px #adb5bd99;"/>
       </a>
       <a href="https://twitter.com/soharbaba182005" style="margin:0 14px;display:inline-block;">
