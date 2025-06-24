@@ -45,12 +45,11 @@ Specialty: Full Stack / Data Science/ AI / etc.
 Interests: Coding 🧑‍💻 | Learning 📚 | Gaming 🎮 | Music 🎵
 ```
 
-- 🚀 Currently working on: **[Your Project/Interest]**
-- 🧠 Learning: **[Technologies/Skills]**
+- 🚀 Currently working on: **Projects**
+- 🧠 Learning: **Full Stack Development**
 - 👯 Looking to collaborate: **Open Source & Student Projects**
 - 💬 Ask me about: **Coding, Tech, Student Life**
-- 📫 Reach me: **[your.email@example.com]**
-- 🏆 Fun Fact: I love [your fun fact; e.g., building bots, hackathons, memes]!
+- 📫 Reach me: **soharbaba182005@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohar-18&label=Profile%1views&color=0e75b6&style=flat" alt="SOHAR-18" /> </p>
 
@@ -63,8 +62,6 @@ Interests: Coding 🧑‍💻 | Learning 📚 | Gaming 🎮 | Music 🎵
 - 🤝 I’m looking for contributors who will help to create more impactful solutions to real-world problems with me.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sohar-18/](https://github.com/Sohar-18/)
-
-- 📫 How to reach me **soharbaba182005@gmail.com**
 
 - ⚡ Fun fact **I love making new Friends. mainly, who is passionate in developing. Just message me 😊.**
 
