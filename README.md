@@ -7,9 +7,8 @@
 
 <!-- Animated Gradient Glow Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Welcome%20to%20My%20Universe!&fontSize=42&fontAlignY=60&desc=Let%27s%20Make%20Something%20Incredible%20Together!&descAlignY=80&animation=fadeIn&fontColor=F7F7F7&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Welcome%20to%20My%20Universe!&fontSize=42&fontAlignY=50&desc=Let%27s%20Make%20Something%20Incredible%20Together!&descAlignY=75&animation=fadeIn&fontColor=F7F7F7&descAlign=50"/>
 </p>
-
 <!-- Animated Rainbow Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="animated rainbow divider" width="100%" />
