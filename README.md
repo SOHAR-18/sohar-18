@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/soharbaba182005" target="blank"><img src="https://img.shields.io/twitter/follow/soharbaba182005?logo=twitter&style=for-the-badge" alt="sohar-18" /></a> </p>
 
-- 🌱 I’m currently working on various projects.
+- 🌱 I’m currently pre-final year student at MIT Bengaluru. currently working on various projects.
 
 - 🤝 I’m looking for contributors who will help to create more impactful solutions to real-world problems with me.
 
