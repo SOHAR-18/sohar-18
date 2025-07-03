@@ -40,11 +40,11 @@
 Name: Sohar Baba
 Pronouns: he/him 
 Role: Student & Coder
-Specialty: Full Stack / Data Science/ AI / etc.
+Specialty: Full Stack , moderate in AI/DS.
 Interests: Coding 🧑‍💻 | Learning 📚 | Gaming 🎮 | Music 🎵
 ```
 
-- 🚀 Currently working on: **Projects**
+- 🚀 Currently working on: **upskilling with Projects**
 - 🧠 Learning: **Full Stack Development**
 - 👯 Looking to collaborate: **Open Source & Student Projects**
 - 💬 Ask me about: **Coding, Tech, Student Life**
