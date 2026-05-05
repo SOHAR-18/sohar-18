@@ -324,7 +324,7 @@
 
 </div>
 
-> **📌 Replace** `YOUR-REPO-NAME-1/2/3/4` with your actual repo names from [github.com/Sohar-18](https://github.com/Sohar-18)
+
 
 ---
 
