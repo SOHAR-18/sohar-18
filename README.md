@@ -304,8 +304,8 @@
 
 <div align="center">
 
-<a href="https://github.com/Sohar-18/YOUR-REPO-NAME-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohar-18&repo=YOUR-REPO-NAME-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_radius=12" />
+<a href="https://github.com/Sohar-18/EUC_ConnectAPP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohar-18&repo=EUC_ConnectAPP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_radius=12" />
 </a>
 &nbsp;
 <a href="https://github.com/Sohar-18/YOUR-REPO-NAME-2">
