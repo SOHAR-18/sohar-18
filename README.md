@@ -305,21 +305,21 @@
 <div align="center">
 
 <a href="https://github.com/Sohar-18/EUC_ConnectAPP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohar-18&repo=EUC_ConnectAPP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_radius=12" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="developer at desk gif"/>
 </a>
 &nbsp;
-<a href="https://github.com/Sohar-18/YOUR-REPO-NAME-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohar-18&repo=YOUR-REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_radius=12" />
+<a href="https://github.com/Sohar-18/PomodoroStudyTracker">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" alt="code matrix gif"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Sohar-18/YOUR-REPO-NAME-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohar-18&repo=YOUR-REPO-NAME-3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_radius=12" />
+<a href="https://github.com/Sohar-18/GreetingApp">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" alt="code matrix gif"/>
 </a>
 &nbsp;
-<a href="https://github.com/Sohar-18/YOUR-REPO-NAME-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohar-18&repo=YOUR-REPO-NAME-4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_radius=12" />
+<a href="https://github.com/Sohar-18/ColorApp">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="developer at desk gif"/>
 </a>
 
 </div>
