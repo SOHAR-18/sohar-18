@@ -257,13 +257,6 @@
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sohar-18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" height="210" alt="GitHub Stats"/>
-
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=sohar-18&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=38bdf8&fire=fb923c&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="700"/>
